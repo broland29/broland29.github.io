@@ -2,6 +2,6 @@
 
 # Üdvözlet!
 A nevem Bálint Roland. Egy erdélyi programozó vagyok.
-- Ha szeretnéd megtekinteni a projektjeim, látogass el ide: https://www.linkedin.com/in/broland29/
-- Ha meg szeretnéd tekinteni a LinkedIn profilomat, látogass el ide: https://www.linkedin.com/in/broland29/
-- Ha kapcsolatba szeretnél lépni velem, írj egy e-mailt a következő címre: broland29@proton.me
+- Ha szeretnéd megtekinteni a projektjeim, látogass el ide: [https://github.com/broland29](https://github.com/broland29)
+- Ha meg szeretnéd tekinteni a LinkedIn profilomat, látogass el ide: [https://www.linkedin.com/in/broland29/](https://www.linkedin.com/in/broland29/)
+- Ha kapcsolatba szeretnél lépni velem, írj egy e-mailt a következő címre: [broland29@proton.me](broland29@proton.me)
