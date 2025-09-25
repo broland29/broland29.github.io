@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #222;
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1, h2, h3 {
+  color: #111;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  margin-top: 1.5rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+
+#cv-container {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+}
+
+@media print {
+  body * {
+    visibility: hidden;   /* hide everything */
+  }
+  #cv-container, #cv-container * {
+    visibility: visible;  /* show only the CV */
+  }
+}
